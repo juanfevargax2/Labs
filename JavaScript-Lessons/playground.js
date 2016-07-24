@@ -4,7 +4,7 @@ function circleArea1(r)
     var PI = 3.14;
     return PI * r * r;
 }
-
+ 
 let circleArea2 = (r) => {
    const PI = 3.14;
    return PI * r * r;
